@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         komga webreader wheel controller
+// @name         komga webreader滚轮控制
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  komga webreader wheel controller
-// @author       You
+// @description  komga webreader 添加滚轮控制
+// @author       AKMT77
+// @license      MIT
 // @match        *://*/book/*/read*
 // @match        *://*:*/book/*/read*
 // @icon         https://www.google.com/s2/favicons
