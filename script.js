@@ -5,6 +5,7 @@
 // @description  komga webreader wheel controller
 // @author       You
 // @match        *://*/book/*/read*
+// @match        *://*:*/book/*/read*
 // @icon         https://www.google.com/s2/favicons
 // @homepage     
 // @grant        none
